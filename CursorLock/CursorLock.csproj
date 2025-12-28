@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework> <!-- or net472 -->
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>CursorCage</AssemblyName>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorLock.csproj.AssemblyReference.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorLock.AssemblyInfoInputs.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorLock.AssemblyInfo.cs
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorLock.csproj.CoreCompileInputs.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\CursorCage.exe.config
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\CursorCage.exe
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\CursorCage.pdb
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorCage.exe
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\CursorCage.pdb

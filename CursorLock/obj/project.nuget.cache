@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I50NM9/0Q3yjQnAwrKsEjTYs/GCquj4ST3nwgx9y6BVDGDNGTPLAzkaDAMoTfD6UzgG45uL+Ouf2n/o/shR+QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnb\\BitBear\\CursorLock\\CursorLock\\CursorLock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnb\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\johnb\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
