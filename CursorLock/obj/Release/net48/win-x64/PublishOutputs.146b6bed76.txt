@@ -1,0 +1,3 @@
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\publish\CursorCage.exe
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\publish\CursorCage.exe.config
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\publish\CursorCage.pdb

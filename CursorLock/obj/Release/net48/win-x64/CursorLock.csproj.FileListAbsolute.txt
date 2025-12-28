@@ -1,0 +1,11 @@
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\CursorCage.exe.config
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\CursorCage.exe
+C:\Users\johnb\BitBear\CursorLock\CursorLock\bin\Release\net48\win-x64\CursorCage.pdb
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.csproj.AssemblyReference.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.AssemblyInfoInputs.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.AssemblyInfo.cs
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.csproj.CoreCompileInputs.cache
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorLock.sourcelink.json
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorCage.exe
+C:\Users\johnb\BitBear\CursorLock\CursorLock\obj\Release\net48\win-x64\CursorCage.pdb
